@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/REACT-FFFFFF?style=for-the-badge&logo=react&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/SWIFT-FFFFFF?style=for-the-badge&logo=swift&logoColor=FFFFFF" height="60">
@@ -22,4 +21,5 @@
   <img src="https://img.shields.io/badge/LUAU-FFFFFF?style=for-the-badge&logo=luau&logoColor=FFFFFF" height="60" alt="luau"/>
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=000000" height="60" alt="rust"/>
   <img src="https://img.shields.io/badge/DEBIAN-FFFFFF?style=for-the-badge&logo=debian&logoColor=FFFFFF" height="60" alt="debian"/>
+  <img src="https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000000" height="60">
 </p>
