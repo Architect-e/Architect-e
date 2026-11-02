@@ -54,4 +54,24 @@
   <img src="https://img.shields.io/badge/TERMUX-000000?style=for-the-badge&logo=termux&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/F--DROID-FFFFFF?style=for-the-badge&logo=fdroid&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/PYTEST-000000?style=for-the-badge&logo=pytest&logoColor=FFFFFF" height="60">
+  <img src="https://img.shields.io/badge/MARKDOWN-FFFFFF?style=for-the-badge&logo=pytest&logoColor=000000" height="60">
+  <img src="https://img.shields.io/badge/GITIGNORE-000000?style=for-the-badge&logo=pytest&logoColor=FFFFFF" height="60">
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
