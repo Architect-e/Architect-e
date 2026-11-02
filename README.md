@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.jpg" width="100%">
 </p>
 <h4 align="center">Stack</h4>
 <p align="center">
