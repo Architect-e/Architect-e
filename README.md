@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Architect-e/Architect-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.svg" width="100%">
+</p>
+<h4 align="center">Stack</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-3D2769?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-7327F5?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-3D2769?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-7327F5?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-3D2769?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/LUA-7327F5?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-3D2769?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/NODE.JS-7327F5?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/SWIFT-3D2769?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/POSTGRES-7327F5?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
