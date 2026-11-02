@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.jpg" width="100%">
 </p>
-<h1 align="center">Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=000000" height="60">
