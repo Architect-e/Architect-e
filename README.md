@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/LUAU-000000?style=for-the-badge&logo=luau&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/ASSEMBLY-FFFFFF?style=for-the-badge&logo=gnu&logoColor=000000" height="60>
+  <img src="https://img.shields.io/badge/ASSEMBLY-FFFFFF?style=for-the-badge&logo=gnu&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" height="60">
