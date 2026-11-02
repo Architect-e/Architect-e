@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Vim-FA0FB5?style=for-the-badge&logo=vim&logoColor=061047" height="60" alt="vim" />
   <img src="https://img.shields.io/badge/PostgreSQL-FA0FB5?style=for-the-badge&logo=postgresql&logoColor=061047" height="60" alt="postgresql" />
   <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="git"/>
-  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="luau"/>
-  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="rust"/>
-  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="debian"/>
+  <img src="https://img.shields.io/badge/LUAU-002CD1?style=for-the-badge&logo=luau&logoColor=FFFFF" height="60" alt="luau"/>
+  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=rust&logoColor=C5C8FC" height="60" alt="rust"/>
+  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=debian&logoColor=C5C8FC" height="60" alt="debian"/>
 </p>
