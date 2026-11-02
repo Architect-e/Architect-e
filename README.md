@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Shell-002CD1?style=for-the-badge&logo=gnu-bash&logoColor=C5C8FC" height="60" alt="shell" />
   <img src="https://img.shields.io/badge/Linux-061047?style=for-the-badge&logo=linux&logoColor=4ADEF7" height="60" alt="linux" />
   <img src="https://img.shields.io/badge/Vim-FA0FB5?style=for-the-badge&logo=vim&logoColor=061047" height="60" alt="vim" />
-  <img src="https://img.shields.io/badge/Node.js-061047?style=for-the-badge&logo=node.js&logoColor=4ADEF7" height="60" alt="node" />
   <img src="https://img.shields.io/badge/PostgreSQL-FA0FB5?style=for-the-badge&logo=postgresql&logoColor=061047" height="60" alt="postgresql" />
   <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="git"/>
+  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="luau"/>
+  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="rust"/>
+  <img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="debian"/>
 </p>
