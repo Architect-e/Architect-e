@@ -3,14 +3,14 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=000000" height="60">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000" height="60">
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000" height="60">
+  <img src="https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=000000" height="60">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/REACT-FFFFFF?style=for-the-badge&logo=react&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" height="60">
