@@ -7,21 +7,13 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/SWIFT-FFFFFF?style=for-the-badge&logo=swift&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000" height="60">
-  <img src="https://img.shields.io/badge/LUAU-000000?style=for-the-badge&logo=luau&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/ASSEMBLY-FFFFFF?style=for-the-badge&logo=gnu&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=000000" height="60">
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/REACT-FFFFFF?style=for-the-badge&logo=react&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/WEBSOCKET-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=000000" height="60">
-  <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/CLANG-FFFFFF?style=for-the-badge&logo=llvm&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/RUSTC-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000" height="60">
   <img src="https://img.shields.io/badge/OPENGL-000000?style=for-the-badge&logo=opengl&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/UNREAL_ENGINE-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=000000" height="60">
