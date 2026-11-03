@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.jpg" width="50%">
+  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.jpg" width="65%">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" height="60">
