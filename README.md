@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="60">
-  <img src="https://img.shields.io/badge/ARCH_LINUX-000000?style=for-the-badge&logo=archlinux&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/DEBIAN-000000?style=for-the-badge&logo=debian&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/TMUX-000000?style=for-the-badge&logo=tmux&logoColor=FFFFFF" height="60">
