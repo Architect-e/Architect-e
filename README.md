@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Architect-e/Architect-e/main/cat.jpg" width="65%">
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" height="60">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="60">
